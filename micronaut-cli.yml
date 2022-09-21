@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.guigui
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, aws-parameter-store, http-client, java, java-application, junit, logback, maven, netty-server, readme, serialization-jackson, shade, yaml]
